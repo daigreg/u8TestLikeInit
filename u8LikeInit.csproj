@@ -4338,8 +4338,6 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Data\Models\all.generated.cs" />
-    <Compile Include="App_Data\Models\models.generated.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -4355,8 +4353,6 @@
     <Content Include="config\ClientDependency.config" />
     <Content Include="config\BackOfficeTours\getting-started.json" />
     <Content Include="App_Data\Logs\UmbracoTraceLog.CERECL01630.20200310.json" />
-    <Content Include="App_Data\Models\all.dll.path" />
-    <Content Include="App_Data\Models\models.hash" />
     <Content Include="App_Data\packages\createdPackages.config" />
     <Content Include="App_Data\packages\installedPackages.config" />
     <Content Include="App_Data\TEMP\ClientDependency\1_3f78da759a65451380d1ad097ae021e6.cdJ" />
